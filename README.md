@@ -23,7 +23,11 @@ Each topic includes structured pseudocode, step-by-step reasoning, edge cases, c
 7. **[Recursion](topics/07-recursion.md)** - Recursive thinking and problem solving
 8. **[Algorithm Analysis](topics/08-algorithm-analysis.md)** - Big-O notation and complexity
 
-## 🚀 How to Use This Guide
+## 🚀 Quick Start
+
+**New to this repository?** → [Read the Quick Start Guide](QUICKSTART.md) (5 minutes)
+
+## 📘 How to Use This Guide
 
 ### For Each Topic:
 1. **Read the conceptual overview** - Understand the "why"
@@ -87,6 +91,7 @@ This is a living document. If you find errors or have suggestions, feel free to 
 
 ## 📌 Quick Navigation
 
+- **[Quick Start Guide](QUICKSTART.md)** - Start here if you're new!
 - [Topic Guides](topics/) - Core concept tutorials
 - [Practice Problems](practice/) - Self-guided exercises
 - [Resources](resources/) - Additional learning materials

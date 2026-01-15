@@ -1,6 +1,6 @@
-# Chapter 9: Strings and Multidimensional Arrays
+# Chapter 9: Pointers and Dynamic Arrays
 
-**Topics:** C-strings, string class, multidimensional arrays, array manipulation
+**Topics:** Pointer variables, dynamic memory allocation, dynamic arrays, pointer arithmetic, new and delete operators
 
 **Course Materials:** Quiz #1, Lab #1
 

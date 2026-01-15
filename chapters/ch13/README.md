@@ -1,6 +1,6 @@
-# Chapter 13: Recursion
+# Chapter 13: Pointers and Linked Lists
 
-**Topics:** Recursive functions, base cases, recursive thinking, recursive vs. iterative solutions
+**Topics:** Node structures, linked list operations, traversal, insertion, deletion, self-referential structures
 
 **Course Materials:** Quiz #5, Lab #5
 

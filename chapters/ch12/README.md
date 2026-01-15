@@ -1,6 +1,6 @@
-# Chapter 12: Streams and File I/O
+# Chapter 12: Separate Compilation and Namespaces
 
-**Topics:** File streams, text file I/O, binary files, stream formatting, error handling
+**Topics:** Header files, implementation files, separate compilation, namespaces, scope resolution, include guards
 
 **Course Materials:** Quiz #4, Lab #4
 

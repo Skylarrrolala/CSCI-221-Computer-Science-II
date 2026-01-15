@@ -1,6 +1,6 @@
-# Chapter 10: Pointers and Dynamic Arrays
+# Chapter 10: Defining Classes
 
-**Topics:** Pointer variables, dynamic arrays, pointer arithmetic, memory management
+**Topics:** Class definitions, member functions, constructors, destructors, encapsulation, public/private members
 
 **Course Materials:** Quiz #2, Lab #2
 

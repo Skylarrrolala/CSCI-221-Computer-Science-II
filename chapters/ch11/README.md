@@ -1,6 +1,6 @@
-# Chapter 11: Separate Compilation and Namespaces
+# Chapter 11: Friends, Overloaded Operators, Arrays in Classes
 
-**Topics:** Header files, implementation files, separate compilation, namespaces, scope resolution
+**Topics:** Friend functions, operator overloading, member arrays, copy constructors, assignment operators
 
 **Course Materials:** Quiz #3, Lab #3
 

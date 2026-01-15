@@ -1,6 +1,6 @@
-# Chapter 18: Standard Template Library (STL)
+# Chapter 18: Standard Template Library and C++11
 
-**Topics:** Vectors, iterators, containers, algorithms, STL classes and functions
+**Topics:** Vectors, iterators, containers, algorithms, STL classes and functions, C++11 features, auto keyword, range-based for loops
 
 **Course Materials:** Quiz #9, Lab #9
 

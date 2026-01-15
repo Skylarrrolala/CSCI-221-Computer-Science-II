@@ -10,15 +10,15 @@ This repository organizes all coursework by textbook chapter, including labs, pr
 ### Chapter Organization
 All work is organized under `/chapters/` by chapter number:
 
-- [Chapter 9: Strings and Multidimensional Arrays](chapters/ch09)
-- [Chapter 10: Pointers and Dynamic Arrays](chapters/ch10)
-- [Chapter 11: Separate Compilation and Namespaces](chapters/ch11)
-- [Chapter 12: Streams and File I/O](chapters/ch12)
-- [Chapter 13: Recursion](chapters/ch13)
+- [Chapter 9: Pointers and Dynamic Arrays](chapters/ch09)
+- [Chapter 10: Defining Classes](chapters/ch10)
+- [Chapter 11: Friends, Overloaded Operators, Arrays in Classes](chapters/ch11)
+- [Chapter 12: Separate Compilation and Namespaces](chapters/ch12)
+- [Chapter 13: Pointers and Linked Lists](chapters/ch13)
 - [Chapter 15: Inheritance](chapters/ch15)
 - [Chapter 16: Exception Handling](chapters/ch16)
 - [Chapter 17: Templates](chapters/ch17)
-- [Chapter 18: Standard Template Library (STL)](chapters/ch18)
+- [Chapter 18: Standard Template Library and C++11](chapters/ch18)
 
 ### Subfolder Types
 

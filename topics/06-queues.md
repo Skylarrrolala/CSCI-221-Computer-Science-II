@@ -534,4 +534,4 @@ Queue<Request> requestQueue;
 - Expression evaluation
 
 ---
-**Remember:** Queue = Line at a store. Fair and orderly. Draw the queue state to visualize operations!
+**Remember:** Queue = Line at a store. Fair and orderly. Draw the queue state to visualize operations!!

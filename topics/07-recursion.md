@@ -523,4 +523,4 @@ Compare performance and code clarity.
 - Related: [Stacks](05-stacks.md) - call stack in recursion
 
 ---
-**Remember:** Recursion is powerful but requires careful thought. Always define base case first, then build recursive case. Draw the recursion tree to visualize!
+**Remember:** Recursion is powerful but requires careful thought. Always define base case first, then build recursive case. Draw the recursion tree to visualize!!

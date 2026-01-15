@@ -44,7 +44,7 @@ O(log n):   ~10 operations
 O(n):       1,000 operations
 O(n log n): ~10,000 operations
 O(n²):      1,000,000 operations
-O(2^n):     10^301 operations (impossible!)
+O(2^n):     More than atoms in universe (impossible!)
 ```
 
 ### 2. Analyzing Time Complexity

@@ -23,6 +23,18 @@ Each topic includes structured pseudocode, step-by-step reasoning, edge cases, c
 7. **[Recursion](topics/07-recursion.md)** - Recursive thinking and problem solving
 8. **[Algorithm Analysis](topics/08-algorithm-analysis.md)** - Big-O notation and complexity
 
+## 🔬 Lab Guidance
+
+Step-by-step tutoring for your actual lab assignments. Each guide helps you **plan, implement, and test** without giving away complete solutions:
+
+- **[Lab Overview](labs/README.md)** - How to use lab guides effectively
+- **[Lab 9: Dynamic Arrays](labs/lab-09-dynamic-arrays.md)** - Due Jan 22 *(Start here!)*
+- **Lab 10: Odometer Class** - Coming soon (Due Feb 1)
+- **Lab 11: Movie Rating Class** - Coming soon (Due Feb 12)
+- **Lab 13: Linked List Reversal** - Coming soon (Due Mar 8)
+- **Lab 15: Inheritance Game** - Coming soon (Due Mar 19)
+- **Lab 16: Exception Handling** - Coming soon (Due Apr 2)
+
 ## 🚀 Quick Start
 
 **New to this repository?** → [Read the Quick Start Guide](QUICKSTART.md) (5 minutes)
@@ -92,6 +104,7 @@ This is a living document. If you find errors or have suggestions, feel free to 
 ## 📌 Quick Navigation
 
 - **[Quick Start Guide](QUICKSTART.md)** - Start here if you're new!
+- **[Lab Guidance](labs/README.md)** - Tutoring for your actual lab assignments
 - [Topic Guides](topics/) - Core concept tutorials
 - [Practice Problems](practice/) - Self-guided exercises
 - [Resources](resources/) - Additional learning materials

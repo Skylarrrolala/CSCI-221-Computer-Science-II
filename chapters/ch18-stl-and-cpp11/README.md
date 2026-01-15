@@ -1,8 +1,8 @@
-# Chapter 11: Friends, Overloaded Operators, Arrays in Classes
+# Chapter 18: Standard Template Library and C++11
 
-**Topics:** Friend functions, operator overloading, member arrays, copy constructors, assignment operators
+**Topics:** Vectors, iterators, containers, algorithms, STL classes and functions, C++11 features, auto keyword, range-based for loops
 
-**Course Materials:** Quiz #3, Lab #3
+**Course Materials:** Quiz #9
 
 ## Checklist
 - [ ] Read textbook section(s)

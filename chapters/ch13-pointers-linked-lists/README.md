@@ -1,8 +1,8 @@
-# Chapter 10: Defining Classes
+# Chapter 13: Pointers and Linked Lists
 
-**Topics:** Class definitions, member functions, constructors, destructors, encapsulation, public/private members
+**Topics:** Node structures, linked list operations, traversal, insertion, deletion, self-referential structures
 
-**Course Materials:** Quiz #2, Lab #2
+**Course Materials:** Quiz #5, Lab - Ch 13 Linked List Reversal
 
 ## Checklist
 - [ ] Read textbook section(s)

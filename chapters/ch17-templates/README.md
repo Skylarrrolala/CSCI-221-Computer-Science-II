@@ -1,8 +1,8 @@
-# Chapter 15: Inheritance
+# Chapter 17: Templates
 
-**Topics:** Base and derived classes, protected members, constructors in derived classes, polymorphism
+**Topics:** Function templates, class templates, template parameters, generic programming
 
-**Course Materials:** Quiz #6, Lab #6
+**Course Materials:** Quiz #8
 
 ## Checklist
 - [ ] Read textbook section(s)

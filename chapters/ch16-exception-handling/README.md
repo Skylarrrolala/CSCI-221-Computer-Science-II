@@ -2,7 +2,7 @@
 
 **Topics:** Try-catch blocks, throwing exceptions, exception classes, exception specifications
 
-**Course Materials:** Quiz #7, Lab #7
+**Course Materials:** Quiz #7, Lab - Ch 16 Histogram
 
 ## Checklist
 - [ ] Read textbook section(s)

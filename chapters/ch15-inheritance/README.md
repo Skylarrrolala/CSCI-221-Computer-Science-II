@@ -1,8 +1,8 @@
-# Chapter 13: Pointers and Linked Lists
+# Chapter 15: Inheritance
 
-**Topics:** Node structures, linked list operations, traversal, insertion, deletion, self-referential structures
+**Topics:** Base and derived classes, protected members, constructors in derived classes, polymorphism
 
-**Course Materials:** Quiz #5, Lab #5
+**Course Materials:** Quiz #6, Lab - Ch 15 Inheritance Game
 
 ## Checklist
 - [ ] Read textbook section(s)

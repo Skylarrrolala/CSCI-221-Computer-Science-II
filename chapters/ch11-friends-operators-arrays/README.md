@@ -1,8 +1,8 @@
-# Chapter 17: Templates
+# Chapter 11: Friends, Overloaded Operators, Arrays in Classes
 
-**Topics:** Function templates, class templates, template parameters, generic programming
+**Topics:** Friend functions, operator overloading, member arrays, copy constructors, assignment operators
 
-**Course Materials:** Quiz #8, Lab #8
+**Course Materials:** Quiz #3, Lab - Ch 11 Movie Ratings
 
 ## Checklist
 - [ ] Read textbook section(s)

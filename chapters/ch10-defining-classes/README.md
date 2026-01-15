@@ -1,8 +1,8 @@
-# Chapter 18: Standard Template Library and C++11
+# Chapter 10: Defining Classes
 
-**Topics:** Vectors, iterators, containers, algorithms, STL classes and functions, C++11 features, auto keyword, range-based for loops
+**Topics:** Class definitions, member functions, constructors, destructors, encapsulation, public/private members
 
-**Course Materials:** Quiz #9, Lab #9
+**Course Materials:** Quiz #2, Lab - Ch 10 Odometer
 
 ## Checklist
 - [ ] Read textbook section(s)

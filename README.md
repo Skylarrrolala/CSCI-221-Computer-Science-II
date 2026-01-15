@@ -7,18 +7,19 @@ This repository organizes all coursework by textbook chapter, including labs, pr
 
 ## Repository Structure
 
-### Chapter Organization
-All work is organized under `/chapters/` by chapter number:
+## Chapters
 
-- [Chapter 9: Pointers and Dynamic Arrays](chapters/ch09)
-- [Chapter 10: Defining Classes](chapters/ch10)
-- [Chapter 11: Friends, Overloaded Operators, Arrays in Classes](chapters/ch11)
-- [Chapter 12: Separate Compilation and Namespaces](chapters/ch12)
-- [Chapter 13: Pointers and Linked Lists](chapters/ch13)
-- [Chapter 15: Inheritance](chapters/ch15)
-- [Chapter 16: Exception Handling](chapters/ch16)
-- [Chapter 17: Templates](chapters/ch17)
-- [Chapter 18: Standard Template Library and C++11](chapters/ch18)
+All work is organized under `/chapters/` with descriptive folder names:
+
+- [**ch09-pointers-dynamic-arrays**](chapters/ch09-pointers-dynamic-arrays) - Pointers and Dynamic Arrays
+- [**ch10-defining-classes**](chapters/ch10-defining-classes) - Defining Classes
+- [**ch11-friends-operators-arrays**](chapters/ch11-friends-operators-arrays) - Friends, Overloaded Operators, Arrays in Classes
+- [**ch12-separate-compilation-namespaces**](chapters/ch12-separate-compilation-namespaces) - Separate Compilation and Namespaces
+- [**ch13-pointers-linked-lists**](chapters/ch13-pointers-linked-lists) - Pointers and Linked Lists
+- [**ch15-inheritance**](chapters/ch15-inheritance) - Inheritance
+- [**ch16-exception-handling**](chapters/ch16-exception-handling) - Exception Handling
+- [**ch17-templates**](chapters/ch17-templates) - Templates
+- [**ch18-stl-and-cpp11**](chapters/ch18-stl-and-cpp11) - Standard Template Library and C++11
 
 ### Subfolder Types
 

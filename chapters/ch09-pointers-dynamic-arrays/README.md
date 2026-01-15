@@ -1,8 +1,8 @@
-# Chapter 12: Separate Compilation and Namespaces
+# Chapter 9: Pointers and Dynamic Arrays
 
-**Topics:** Header files, implementation files, separate compilation, namespaces, scope resolution, include guards
+**Topics:** Pointer variables, dynamic memory allocation, dynamic arrays, pointer arithmetic, new and delete operators
 
-**Course Materials:** Quiz #4, Lab #4
+**Course Materials:** Quiz #1, Lab - Ch 9 Dynamic Arrays
 
 ## Checklist
 - [ ] Read textbook section(s)

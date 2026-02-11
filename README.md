@@ -40,6 +40,6 @@ Each chapter contains the following subdirectories:
 
 ## Course Information
 
-**Instructor:** TBD  
+**Instructor:** Michael Coutts  
 **Semester:** Spring 2026  
 **Institution:** AUPP (Partner with FHSU)

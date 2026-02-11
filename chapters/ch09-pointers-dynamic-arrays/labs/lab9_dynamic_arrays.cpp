@@ -17,7 +17,7 @@ string* deleteEntry(string* dynamicArray, int& size, string entryToDelete);
 
 int main() {
     // TODO: Declare an int variable to track the current size (start at 5)
-    
+    int curr = 5; 
     // TODO: Allocate a dynamic array of 5 strings using 'new'
     
     // TODO: Initialize the array with 5 starting names
